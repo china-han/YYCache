@@ -44,7 +44,7 @@ Installation
 
 ### CocoaPods
 
-1. Add `pod 'YYCache'` to your Podfile.
+1. Add `pod 'YYCache', :git => 'https://github.com/china-han/YYCache.git'` to your Podfile.
 2. Run `pod install` or `pod update`.
 3. Import \<YYCache/YYCache.h\>.
 
@@ -125,7 +125,7 @@ iPhone 6 上，磁盘缓存每秒响应次数 (越高越好):
 
 ### CocoaPods
 
-1. 在 Podfile 中添加 `pod 'YYCache'`。
+1. 在 Podfile 中添加 `pod 'YYCache', :git => 'https://github.com/china-han/YYCache.git'`。
 2. 执行 `pod install` 或 `pod update`。
 3. 导入 \<YYCache/YYCache.h\>。
 
